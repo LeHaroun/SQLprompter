@@ -58,7 +58,7 @@ For a live demonstration of the code, you can run it in a Colab notebook. Please
 3. Select the GitHub tab.
 4. Enter the URL of this GitHub repository ([SQLprompter](https://github.com/LeHaroun/SQLprompter)) in the Enter a GitHub URL or search by organization or user field.
 5. Press Enter, and the repository will load in Colab.
-6 Open the notebook file (database_prompter.ipynb) and follow the instructions inside to run the code.
+6. Open the notebook file (database_prompter.ipynb) and follow the instructions inside to run the code.
 
 ## Contributions
 Contributions are welcome! If you find any issues or want to add new features, please feel free to submit a pull request.
